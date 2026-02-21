@@ -7,3 +7,18 @@ theme = 'lightbi-hugo'
     name = "About"
     url = "/About/"
     weight = 1
+    
+[[menu.main]]
+    name = "Projects"
+    url = "/Projects/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Resume"
+    url = "/Resume/"
+    weight = 3
+    
+[[menu.main]]
+    name = "posts"
+    url = "/Posts/"
+    weight = 4
