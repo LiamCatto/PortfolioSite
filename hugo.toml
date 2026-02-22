@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Liam's Portfolio"
 theme = 'lightbi-hugo'
 
 [[menu.main]]
@@ -22,3 +22,6 @@ theme = 'lightbi-hugo'
     name = "posts"
     url = "/Posts/"
     weight = 4
+
+[Params]
+    homepageLayout = "blog"

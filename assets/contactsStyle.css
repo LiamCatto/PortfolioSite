@@ -1,0 +1,16 @@
+﻿body {
+
+}
+
+div {
+    display: grid;
+    justify-content: center;
+    place-items: center;
+}
+
+
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

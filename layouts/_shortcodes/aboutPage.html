@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  {{ with resources.Get "/aboutStyle.css" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+</head>
+
+<body>
+  <br />
+  <br />
+  <table>
+    <tr>
+      <td style="width:60%">
+        <p class="para">
+          <br />
+          Hello! My name is Liam Mercado, a 4th year student at Champlain College currently studying for my Bachelor of Science in Game Programming.
+          While I can work well independently, I also enjoy collaborating with a team. My primary interests in my field are character AI and graphics,
+          but I consider myself a generalist who is willing to try my hand at any aspect of programming.
+        </p>
+      </td>
+      <td>
+        <img src="{{ $.Get "src" }}" width="{{ $.Get "i_width" }}" alt="Portrait of Liam Mercado">
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>

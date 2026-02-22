@@ -3,11 +3,15 @@
     "",
     "\\assets",
     "\\content",
-    "\\content\\About",
-    "\\layouts",
-    "\\layouts\\_shortcodes",
-    "\\static"
+    "\\content\\posts",
+    "\\content\\Projects",
+    "\\content\\Resume",
+    "\\resources\\_gen\\images",
+    "\\resources\\_gen\\images\\about",
+    "\\themes\\lightbi-hugo",
+    "\\themes\\lightbi-hugo\\assets\\css",
+    "\\themes\\lightbi-hugo\\layouts"
   ],
-  "SelectedNode": "\\assets\\.gitkeep",
+  "SelectedNode": "\\content\\Resume\\_index.md",
   "PreviewInSolutionExplorer": false
 }
