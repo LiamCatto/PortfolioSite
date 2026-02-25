@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+{{ $pName := .Get "name" }}
+{{ $pDesc := .Get "desc" }}
+{{ $imageSrc := .Get "src" }}
+{{ $imageWidth := .Get "iWidth" }}
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  {{ with resources.Get "/projectItem.css" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+</head>
+
+<body>
+  <br />
+  <br />
+  <table>
+    <tr>
+      <td style="width:60%">
+        <h3>{{ $pName }}</h3>
+        <br />
+        <p class="para">
+          {{ $pDesc }}
+        </p>
+      </td>
+      <td>
+        <img src="{{ $imageSrc }}" width="{{ $imageWidth }}" alt="Portrait of Liam Mercado">
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>

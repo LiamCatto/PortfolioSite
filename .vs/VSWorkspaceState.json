@@ -3,15 +3,12 @@
     "",
     "\\assets",
     "\\content",
-    "\\content\\posts",
+    "\\content\\About",
     "\\content\\Projects",
     "\\content\\Resume",
-    "\\resources\\_gen\\images",
-    "\\resources\\_gen\\images\\about",
-    "\\themes\\lightbi-hugo",
-    "\\themes\\lightbi-hugo\\assets\\css",
-    "\\themes\\lightbi-hugo\\layouts"
+    "\\layouts",
+    "\\layouts\\_shortcodes"
   ],
-  "SelectedNode": "\\content\\Resume\\_index.md",
+  "SelectedNode": "\\content\\About\\_index.md",
   "PreviewInSolutionExplorer": false
 }
