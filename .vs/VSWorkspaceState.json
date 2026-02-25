@@ -1,14 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\content",
-    "\\content\\About",
     "\\content\\Projects",
-    "\\content\\Resume",
     "\\layouts",
-    "\\layouts\\_shortcodes"
+    "\\themes\\lightbi-hugo",
+    "\\themes\\lightbi-hugo\\data\\lightbi",
+    "\\themes\\lightbi-hugo\\exampleSite\\assets",
+    "\\themes\\lightbi-hugo\\exampleSite\\assets\\img",
+    "\\themes\\lightbi-hugo\\exampleSite\\assets\\img\\profile"
   ],
-  "SelectedNode": "\\content\\About\\_index.md",
+  "SelectedNode": "\\content\\Projects\\_index.md",
   "PreviewInSolutionExplorer": false
 }

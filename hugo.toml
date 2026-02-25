@@ -17,11 +17,13 @@ theme = 'lightbi-hugo'
     name = "Resume"
     url = "/Resume/"
     weight = 3
-    
-[[menu.main]]
-    name = "posts"
-    url = "/Posts/"
-    weight = 4
 
 [Params]
-    homepageLayout = "blog"
+    homepageLayout = "profile"
+    profileShortbio = "Hello! Thank you for taking the time to check out my website."
+    profilePhoto = "img/my-portrait.jpg"
+    hideAuthor = true
+    comments = false
+
+[Params.Author]
+    name = "Liam Mercado"

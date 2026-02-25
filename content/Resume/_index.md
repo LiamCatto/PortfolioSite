@@ -6,4 +6,8 @@ draft = true
 
 {{< resume >}}
 
+{{< linebreak >}}
+
+[Download Resume](LiamResume.pdf)
+
 {{< contacts >}}

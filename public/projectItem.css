@@ -1,3 +1,18 @@
-﻿body
-{
+﻿body {
+
+}
+
+.para {
+    display: inline-block;
+    color: dimgray;
+    float: left;
+}
+
+img {
+    display: inline-block;
+}
+
+table, tr, td {
+    border-collapse: collapse;
+    border: hidden;
 }
