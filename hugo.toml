@@ -10,7 +10,7 @@ theme = 'lightbi-hugo'
     
 [[menu.main]]
     name = "Projects"
-    url = "/Projects/"
+    url = "/Project List/"
     weight = 2
     
 [[menu.main]]
@@ -22,8 +22,5 @@ theme = 'lightbi-hugo'
     homepageLayout = "profile"
     profileShortbio = "Hello! Thank you for taking the time to check out my website."
     profilePhoto = "img/my-portrait.jpg"
-    hideAuthor = true
+    hideAuthor = false
     comments = false
-
-[Params.Author]
-    name = "Liam Mercado"

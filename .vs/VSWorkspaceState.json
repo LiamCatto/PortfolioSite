@@ -4,12 +4,13 @@
     "\\content",
     "\\content\\Projects",
     "\\layouts",
+    "\\layouts\\_shortcodes",
+    "\\themes",
     "\\themes\\lightbi-hugo",
-    "\\themes\\lightbi-hugo\\data\\lightbi",
-    "\\themes\\lightbi-hugo\\exampleSite\\assets",
-    "\\themes\\lightbi-hugo\\exampleSite\\assets\\img",
-    "\\themes\\lightbi-hugo\\exampleSite\\assets\\img\\profile"
+    "\\themes\\lightbi-hugo\\layouts",
+    "\\themes\\lightbi-hugo\\layouts\\partials",
+    "\\themes\\lightbi-hugo\\layouts\\partials\\homeLayout"
   ],
-  "SelectedNode": "\\content\\Projects\\_index.md",
+  "SelectedNode": "\\themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html",
   "PreviewInSolutionExplorer": false
 }
