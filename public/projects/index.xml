@@ -9,18 +9,25 @@
     <lastBuildDate>Tue, 17 Feb 2026 20:56:54 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cthulhu And Me</title>
+      <link>http://localhost:1313/projects/cthulu/</link>
+      <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
+      <guid>http://localhost:1313/projects/cthulu/</guid>
+      <description>A first-person shooter about a young girl eagerly fighting `nightmares` conjured by Cthulhu.</description>
+    </item>
+    <item>
       <title>Moratity</title>
       <link>http://localhost:1313/projects/moratity/</link>
       <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
       <guid>http://localhost:1313/projects/moratity/</guid>
-      <description>&lt;p&gt;A 3D narrative-focused runner about a ball of rats rolling through a medieval town.&lt;/p&gt;</description>
+      <description>A 3D narrative-focused runner about a ball of rats rolling through a medieval town.</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/projects/cthulu/</link>
+      <title>Prehistoric Pack</title>
+      <link>http://localhost:1313/projects/ppack/</link>
       <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
-      <guid>http://localhost:1313/projects/cthulu/</guid>
-      <description>&lt;h2 id=&#34;sadifhjal&#34;&gt;sadifhjal&lt;/h2&gt;&#xA;&lt;!DOCTYPE html&gt;&#xD;&#xA;&#xD;&#xA;&lt;html lang=&#34;en&#34; xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;&#xD;&#xA;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;  &lt;meta charset=&#34;utf-8&#34; /&gt;&#xD;&#xA;  &lt;title&gt;&lt;/title&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/contactsStyle.css&#34;&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;  &lt;br /&gt;&#xD;&#xA;  &lt;br /&gt;&#xD;&#xA;  &lt;br /&gt;&#xD;&#xA;  &lt;br /&gt;&#xD;&#xA;  &lt;div&gt;&#xD;&#xA;    &lt;h4&gt;&#xD;&#xA;      Contact&#xD;&#xA;    &lt;/h4&gt;&#xD;&#xA;    &lt;p&gt;&#xD;&#xA;      Email: liammercado90@gmail.com&#xD;&#xA;    &lt;/p&gt;&#xD;&#xA;    &lt;br /&gt;&#xD;&#xA;    &lt;a href=&#34;https://linkedin.com/in/liam-mercado-4a9b62359&#34; target=&#34;_blank&#34;&gt;Linked In&lt;/a&gt;&#xD;&#xA;    &lt;a href=&#34;https://champlain.joinhandshake.com/profiles/5dp8qq&#34; target=&#34;_blank&#34;&gt;Handshake&lt;/a&gt;&#xD;&#xA;    &lt;a href=&#34;https://profile.indeed.com/?hl=en_US&amp;co=US&amp;from=gnav-jobseeker-profile--profile-one-frontend&#34; target=&#34;_blank&#34;&gt;Indeed&lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br /&gt;&#xD;&#xA;  &lt;br /&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&#xD;&#xA;&lt;/html&gt;</description>
+      <guid>http://localhost:1313/projects/ppack/</guid>
+      <description>A top-down auto-battler about dinosaurs.</description>
     </item>
   </channel>
 </rss>

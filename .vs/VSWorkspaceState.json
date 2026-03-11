@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\Projects",
+    "\\content\\About",
+    "\\content\\Project List",
     "\\layouts",
-    "\\layouts\\_shortcodes",
     "\\themes",
     "\\themes\\lightbi-hugo",
     "\\themes\\lightbi-hugo\\layouts",
     "\\themes\\lightbi-hugo\\layouts\\partials",
     "\\themes\\lightbi-hugo\\layouts\\partials\\homeLayout"
   ],
-  "SelectedNode": "\\themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html",
+  "SelectedNode": "\\content\\Projects",
   "PreviewInSolutionExplorer": false
 }
