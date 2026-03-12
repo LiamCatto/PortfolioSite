@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\About",
-    "\\content\\Project List",
+    "\\content\\Projects",
     "\\layouts",
-    "\\themes",
+    "\\layouts\\_shortcodes",
     "\\themes\\lightbi-hugo",
     "\\themes\\lightbi-hugo\\layouts",
     "\\themes\\lightbi-hugo\\layouts\\partials",

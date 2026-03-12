@@ -5,3 +5,5 @@ title = 'Cthulhu And Me'
 subtitle = 'Eepy Sleepy Studios'
 summary = 'A first-person shooter about a young girl eagerly fighting \`nightmares\` conjured by Cthulhu.'
 +++
+
+{{< cthulhuButton >}}
