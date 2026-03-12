@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\img",
     "\\content",
+    "\\content\\Project List",
+    "\\content\\Project List\\img",
     "\\content\\Projects",
     "\\layouts",
     "\\layouts\\_shortcodes",
-    "\\themes\\lightbi-hugo",
-    "\\themes\\lightbi-hugo\\layouts",
-    "\\themes\\lightbi-hugo\\layouts\\partials",
-    "\\themes\\lightbi-hugo\\layouts\\partials\\homeLayout"
+    "\\resources"
   ],
-  "SelectedNode": "\\content\\Projects",
+  "SelectedNode": "\\content\\Projects\\centerpiece.md",
   "PreviewInSolutionExplorer": false
 }
