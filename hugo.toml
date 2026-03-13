@@ -83,4 +83,4 @@ theme = 'lightbi-hugo'
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':cacheDir/images' 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\egypt\\quickstart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\themes\\lightbi-hugo\\layouts\\partials\\homeLayout\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -154,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "hugo.toml",
               "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\hugo.toml",
               "RelativeDocumentMoniker": "hugo.toml",
@@ -179,15 +179,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "post_preview_bottom_card.html",
               "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html",
               "RelativeDocumentMoniker": "themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html",
-              "RelativeToolTip": "themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html*",
+              "RelativeToolTip": "themes\\lightbi-hugo\\layouts\\partials\\post_preview_bottom_card.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-01T21:16:15.031Z"
+              "WhenOpened": "2026-03-01T21:16:15.031Z",
+              "EditorCaption": ""
             }
           ]
         }
