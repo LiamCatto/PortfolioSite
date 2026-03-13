@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = "Liam's Portfolio"
 theme = 'lightbi-hugo'
 
+# (Comment to note important files: themes\lightbi-hugo\layouts\partials\homeLayout\profile.html | themes\lightbi-hugo\layouts\partials\post_preview_bottom_card.html)
+
 [[menu.main]]
     name = "About"
     url = "/About/"

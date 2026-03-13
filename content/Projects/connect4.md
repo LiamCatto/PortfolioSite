@@ -5,5 +5,3 @@ title = 'Connect4'
 subtitle = 'Liam Mercado'
 summary = 'A class project where you play Connect4 against the computer.'
 +++
-
-{{< cthulhuButton >}}

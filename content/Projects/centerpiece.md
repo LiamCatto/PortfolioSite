@@ -5,5 +5,3 @@ title = 'Centerpiece Project'
 subtitle = 'Liam Mercado'
 summary = 'A shooter where the player battles enemies in a procedurally-generated environment.'
 +++
-
-{{< cthulhuButton >}}
