@@ -80,3 +80,7 @@ theme = 'lightbi-hugo'
   [[module.mounts]]
     source = "assets/library/img"
     target = "static/**library**/img"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
