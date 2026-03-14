@@ -7,3 +7,6 @@
 [submodule "themes/lightbi-hugo"]
 	path = themes/lightbi-hugo
 	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "themes/my-lightbi-hugo-copy/my-lightbi-hugo-copy"]
+	path = themes/my-lightbi-hugo-copy/my-lightbi-hugo-copy
+	url = https://github.com/LiamCatto/my-lightbi-hugo-copy.git
