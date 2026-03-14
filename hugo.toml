@@ -1,9 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Liam's Portfolio"
-theme = 'lightbi-hugo'
+theme = 'my-lightbi-hugo-copy'
 
-# (Comment to note important files: themes\lightbi-hugo\layouts\partials\homeLayout\profile.html | themes\lightbi-hugo\layouts\partials\post_preview_bottom_card.html)
+# (Comment to note important files: themes\my-lightbi-hugo-copy\layouts\partials\homeLayout\profile.html | themes\my-lightbi-hugo-copy\layouts\partials\post_preview_bottom_card.html)
 
 [[menu.main]]
     name = "About"
