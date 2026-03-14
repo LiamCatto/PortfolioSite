@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\img",
     "\\content",
     "\\content\\Project List",
     "\\content\\Project List\\img",
     "\\content\\Projects",
     "\\layouts",
     "\\layouts\\_shortcodes",
-    "\\resources"
+    "\\resources",
+    "\\themes",
+    "\\themes\\my-lightbi-hugo-copy"
   ],
+  "SelectedNode": "\\themes\\my-lightbi-hugo-copy\\theme.toml",
   "PreviewInSolutionExplorer": false
 }

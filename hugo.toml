@@ -22,6 +22,7 @@ theme = 'my-lightbi-hugo-copy'
 
 [Params]
     homepageLayout = "profile"
+    profileWelcomeHeading = "Hello, I&#39m Liam"
     profileShortbio = "Hello! Thank you for taking the time to check out my website."
     profilePhoto = "img/my-portrait.jpg"
     hideAuthor = false
