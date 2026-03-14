@@ -4,3 +4,6 @@
 [submodule "themes/careercanvas"]
 	path = themes/careercanvas
 	url = https://github.com/felipecordero/careercanvas.git
+[submodule "themes/my-lightbi-hugo-copy"]
+	path = themes/my-lightbi-hugo-copy
+	url = https://github.com/LiamCatto/my-lightbi-hugo-copy.git
