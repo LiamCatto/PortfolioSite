@@ -10,37 +10,37 @@
     <atom:link href="http://localhost:1313/PortfolioSite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centerpiece Project</title>
-      <link>http://localhost:1313/PortfolioSite/projects/centerpiece/</link>
+      <link>http://localhost:1313/PortfolioSite/projectfolder/centerpiece/</link>
       <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
-      <guid>http://localhost:1313/PortfolioSite/projects/centerpiece/</guid>
+      <guid>http://localhost:1313/PortfolioSite/projectfolder/centerpiece/</guid>
       <description>A shooter where the player battles enemies in a procedurally-generated environment.</description>
     </item>
     <item>
       <title>Connect4</title>
-      <link>http://localhost:1313/PortfolioSite/projects/connect4/</link>
+      <link>http://localhost:1313/PortfolioSite/projectfolder/connect4/</link>
       <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
-      <guid>http://localhost:1313/PortfolioSite/projects/connect4/</guid>
+      <guid>http://localhost:1313/PortfolioSite/projectfolder/connect4/</guid>
       <description>A class project where you play Connect4 against the computer.</description>
     </item>
     <item>
       <title>Cthulhu And Me</title>
-      <link>http://localhost:1313/PortfolioSite/projects/cthulu/</link>
+      <link>http://localhost:1313/PortfolioSite/projectfolder/cthulu/</link>
       <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
-      <guid>http://localhost:1313/PortfolioSite/projects/cthulu/</guid>
+      <guid>http://localhost:1313/PortfolioSite/projectfolder/cthulu/</guid>
       <description>A first-person shooter about a young girl eagerly fighting `nightmares` conjured by Cthulhu.</description>
     </item>
     <item>
       <title>Moratity</title>
-      <link>http://localhost:1313/PortfolioSite/projects/moratity/</link>
+      <link>http://localhost:1313/PortfolioSite/projectfolder/moratity/</link>
       <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
-      <guid>http://localhost:1313/PortfolioSite/projects/moratity/</guid>
+      <guid>http://localhost:1313/PortfolioSite/projectfolder/moratity/</guid>
       <description>A 3D narrative-focused runner about a ball of rats rolling through a medieval town.</description>
     </item>
     <item>
       <title>Prehistoric Pack</title>
-      <link>http://localhost:1313/PortfolioSite/projects/ppack/</link>
+      <link>http://localhost:1313/PortfolioSite/projectfolder/ppack/</link>
       <pubDate>Tue, 17 Feb 2026 20:56:54 -0500</pubDate>
-      <guid>http://localhost:1313/PortfolioSite/projects/ppack/</guid>
+      <guid>http://localhost:1313/PortfolioSite/projectfolder/ppack/</guid>
       <description>A top-down auto-battler about dinosaurs.</description>
     </item>
   </channel>
