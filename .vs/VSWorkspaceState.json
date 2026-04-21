@@ -2,15 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\Project List",
-    "\\content\\Project List\\img",
     "\\content\\Projects",
     "\\layouts",
     "\\layouts\\_shortcodes",
     "\\resources",
     "\\themes",
-    "\\themes\\my-lightbi-hugo-copy"
+    "\\themes\\my-lightbi-hugo-copy",
+    "\\themes\\my-lightbi-hugo-copy\\layouts",
+    "\\themes\\my-lightbi-hugo-copy\\layouts\\partials",
+    "\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\seo\\structured"
   ],
-  "SelectedNode": "\\themes\\my-lightbi-hugo-copy\\theme.toml",
+  "SelectedNode": "\\layouts\\_shortcodes\\projectList.html",
   "PreviewInSolutionExplorer": false
 }

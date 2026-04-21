@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://liamcatto.github.io/PortfolioSite/'
 languageCode = 'en-us'
 title = "Liam's Portfolio"
 theme = 'my-lightbi-hugo-copy'
