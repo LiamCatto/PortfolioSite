@@ -21,7 +21,7 @@ draft = true
 {{< 
 	addProject 
 	name="Prehistoric Pack" 
-	link="/PortfolioSite/projectfolder/pPack"
+	link="/PortfolioSite/projectfolder/ppack"
 	desc=`Prehistoric Pack is an autobattler where the player builds a deck of cards representing dinosaurs before deploying them as 3D characters on a battle field to watch
 		  them fight an opposing group of dinosaurs. The game has multiple environments, each with a variety of level layouts. There are also a variety of optional objectives
 		  that can grant an advantage to the team that destroys them. The player wins a round by defeating all of the enemy dinosaurs and must beat all eight rounds to win the 
