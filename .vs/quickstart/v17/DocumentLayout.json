@@ -7,18 +7,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\Project List\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\projectList.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\_shortcodes\\projectList.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\assets\\projectItem.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\projectItem.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\cthulhuButton.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\_shortcodes\\cthulhuButton.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -27,24 +15,40 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\_shortcodes\\addProject.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\Projects\\centerpiece.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\Projects\\centerpiece.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\homeLayout\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\my-lightbi-hugo-copy\\layouts\\partials\\homeLayout\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\Projects\\connect4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\Projects\\connect4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\moratity.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\ProjectFolder\\moratity.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\Projects\\moratity.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\Projects\\moratity.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\cthulhuButton.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\_shortcodes\\cthulhuButton.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\Projects\\cthulu.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\Projects\\cthulu.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\connect4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\ProjectFolder\\connect4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\Projects\\pPack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\Projects\\pPack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\pPack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\ProjectFolder\\pPack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\post_preview_bottom_card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\my-lightbi-hugo-copy\\layouts\\partials\\post_preview_bottom_card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\centerpiece.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\ProjectFolder\\centerpiece.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\cthulu.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\ProjectFolder\\cthulu.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egypt\\quickstart\\assets\\projectItem.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\projectItem.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,19 +58,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "projectList.html",
-              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\projectList.html",
-              "RelativeDocumentMoniker": "layouts\\_shortcodes\\projectList.html",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\projectList.html",
-              "RelativeToolTip": "layouts\\_shortcodes\\projectList.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "post_preview_bottom_card.html",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\post_preview_bottom_card.html",
+              "RelativeDocumentMoniker": "themes\\my-lightbi-hugo-copy\\layouts\\partials\\post_preview_bottom_card.html",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\post_preview_bottom_card.html",
+              "RelativeToolTip": "themes\\my-lightbi-hugo-copy\\layouts\\partials\\post_preview_bottom_card.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-14T21:12:55.68Z",
+              "WhenOpened": "2026-04-21T00:54:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "profile.html",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\homeLayout\\profile.html",
+              "RelativeDocumentMoniker": "themes\\my-lightbi-hugo-copy\\layouts\\partials\\homeLayout\\profile.html",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\homeLayout\\profile.html",
+              "RelativeToolTip": "themes\\my-lightbi-hugo-copy\\layouts\\partials\\homeLayout\\profile.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-21T00:37:50.509Z",
               "EditorCaption": ""
             },
             {
@@ -77,51 +94,66 @@
               "RelativeDocumentMoniker": "content\\Project List\\_index.md",
               "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\Project List\\_index.md",
               "RelativeToolTip": "content\\Project List\\_index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-14T21:04:45.508Z",
+              "WhenOpened": "2026-04-21T00:40:25.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "addProject.html",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\addProject.html",
+              "RelativeDocumentMoniker": "layouts\\_shortcodes\\addProject.html",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\addProject.html",
+              "RelativeToolTip": "layouts\\_shortcodes\\addProject.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-22T20:41:41.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "hugo.toml",
               "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\hugo.toml",
               "RelativeDocumentMoniker": "hugo.toml",
               "ToolTip": "C:\\Users\\egypt\\quickstart\\hugo.toml",
               "RelativeToolTip": "hugo.toml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-14T17:04:30.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "centerpiece.md",
-              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\Projects\\centerpiece.md",
-              "RelativeDocumentMoniker": "content\\Projects\\centerpiece.md",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\Projects\\centerpiece.md",
-              "RelativeToolTip": "content\\Projects\\centerpiece.md",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\centerpiece.md",
+              "RelativeDocumentMoniker": "content\\ProjectFolder\\centerpiece.md",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\centerpiece.md",
+              "RelativeToolTip": "content\\ProjectFolder\\centerpiece.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-12T22:50:51.855Z"
+              "WhenOpened": "2026-03-12T22:50:51.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "connect4.md",
-              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\Projects\\connect4.md",
-              "RelativeDocumentMoniker": "content\\Projects\\connect4.md",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\Projects\\connect4.md",
-              "RelativeToolTip": "content\\Projects\\connect4.md",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\connect4.md",
+              "RelativeDocumentMoniker": "content\\ProjectFolder\\connect4.md",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\connect4.md",
+              "RelativeToolTip": "content\\ProjectFolder\\connect4.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-12T22:45:36.3Z"
+              "WhenOpened": "2026-03-12T22:45:36.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "cthulhuButton.html",
               "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\cthulhuButton.html",
               "RelativeDocumentMoniker": "layouts\\_shortcodes\\cthulhuButton.html",
@@ -134,43 +166,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "moratity.md",
-              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\Projects\\moratity.md",
-              "RelativeDocumentMoniker": "content\\Projects\\moratity.md",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\Projects\\moratity.md",
-              "RelativeToolTip": "content\\Projects\\moratity.md",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\moratity.md",
+              "RelativeDocumentMoniker": "content\\ProjectFolder\\moratity.md",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\moratity.md",
+              "RelativeToolTip": "content\\ProjectFolder\\moratity.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-01T19:24:54.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "cthulu.md",
-              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\Projects\\cthulu.md",
-              "RelativeDocumentMoniker": "content\\Projects\\cthulu.md",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\Projects\\cthulu.md",
-              "RelativeToolTip": "content\\Projects\\cthulu.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-01T18:50:38.198Z"
+              "WhenOpened": "2026-03-01T19:24:54.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "pPack.md",
-              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\Projects\\pPack.md",
-              "RelativeDocumentMoniker": "content\\Projects\\pPack.md",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\Projects\\pPack.md",
-              "RelativeToolTip": "content\\Projects\\pPack.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "cthulu.md",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\cthulu.md",
+              "RelativeDocumentMoniker": "content\\ProjectFolder\\cthulu.md",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\cthulu.md",
+              "RelativeToolTip": "content\\ProjectFolder\\cthulu.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-11T20:31:29.869Z"
+              "WhenOpened": "2026-03-01T18:50:38.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "pPack.md",
+              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\pPack.md",
+              "RelativeDocumentMoniker": "content\\ProjectFolder\\pPack.md",
+              "ToolTip": "C:\\Users\\egypt\\quickstart\\content\\ProjectFolder\\pPack.md",
+              "RelativeToolTip": "content\\ProjectFolder\\pPack.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-11T20:31:29.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "projectItem.css",
               "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\assets\\projectItem.css",
               "RelativeDocumentMoniker": "assets\\projectItem.css",
@@ -180,18 +215,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-02-22T20:42:13.176Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "addProject.html",
-              "DocumentMoniker": "C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\addProject.html",
-              "RelativeDocumentMoniker": "layouts\\_shortcodes\\addProject.html",
-              "ToolTip": "C:\\Users\\egypt\\quickstart\\layouts\\_shortcodes\\addProject.html",
-              "RelativeToolTip": "layouts\\_shortcodes\\addProject.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-22T20:41:41.62Z"
             }
           ]
         }
