@@ -1,16 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\content",
+    "\\content\\About",
     "\\content\\ProjectFolder",
-    "\\public",
-    "\\public\\projectfolder",
+    "\\content\\ProjectFolder\\media",
     "\\themes",
     "\\themes\\my-lightbi-hugo-copy",
     "\\themes\\my-lightbi-hugo-copy\\layouts",
     "\\themes\\my-lightbi-hugo-copy\\layouts\\partials",
     "\\themes\\my-lightbi-hugo-copy\\layouts\\partials\\homeLayout"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\layouts\\_shortcodes",
   "PreviewInSolutionExplorer": false
 }

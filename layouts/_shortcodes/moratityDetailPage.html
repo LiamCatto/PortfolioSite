@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  {{ with resources.Get "/projectDetails.css" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+</head>
+<body>
+  <video width="640" height="480" controls preload="metadata">
+    <source src="/PortfolioSite/projectfolder/media/MoratityTrailer.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br />
+  <br />
+  <p>
+    Moratity is a story-driven runner set in the fictional medieval town of Pestis. The player controls a giant ball of rats barreling through the streets of the town
+    and is judged by the narrator based on their moral choices. Some of these choices are represented by objects around the world. For example, breaking apart a piece
+    of rubble might increase your karma score by making it easier for the townsfolk to clear. On the other hand, if you crash into an innocent bystander, you lose karma.
+    Throughout the game, there are also major choices that act as plot points in the story. The player usually encounters these choices on intersections, making their
+    choice by picking a path and crashing into something specific to the choice. One example we had was an intersection where the player had to choose between crashing
+    into an elderly man or a burglar, but if they wish to be neutral they could still pick either option and just dodge the characters on the road. We planned to have
+    three endings that would be decided based on the amount of karma the player has: extremely negative karma would lead to the bad ending, extremely positive karma
+    would lead to the good ending, and karma within a certain threshold from zero would result in the neutral ending.
+    <br />
+    <br />
+    Moratity was the first Capstone game I worked on during my Senior year at Champlain College. Unfortunately, it did not pass Greenlight at the end of the first semester,
+    so our team, Ethically Sourced Cats (named after a cat-themed group chat), was divied up and our members had the opportunity to be onboarded onto one of the teams that 
+    passed Greenlight.
+    <br />
+    <br />
+    My primary contribution to the game was the road system. Being a runner game, the player's movement was entirely restricted to the road. This made the physical road
+    a central element of the game; not only did it dictate the major decisions the player would face, but it was also the centerpiece of the level, and thus many systems
+    and design elements were built around it. Most of my work revolved around building tools that would help designers work within the level, such as a system for
+    determining where borders existed along the sides, as well as a tool that allowed designers to change how the road curved while keeping certain elements at the same
+    point down the length of the road so desginers wouldn't have to move every set piece every time they made edits to the road. The main challenge I faced while working
+    on this system was having to built the mesh for the road from scratch. This game was built using the Unity Engine, and while a thoroughly designed and intuitive spline
+    tool did exist, the engine's built-in spline extrusion script couldn't meet the needs of the game. Although most of the road system was built on Unity's spline tool,
+    I had to create my own spline extrusion script from scratch to generate the mesh the way that the designers wanted. While this decision led to more opportunities for
+    bugs related to mesh generation, it also allowed us more control over the road's shape and I ended up relying on my extrusion script to generate boundaries along the
+    sides of the road.
+  </p>
+</body>
+</html>
