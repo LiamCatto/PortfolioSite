@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<!-- Creates a download link for a file in the assets folder -->
+
+{{ $fileName := .Get "file" }}
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+</head>
+<body>
+  {{ with resources.Get $fileName }}
+  <a href="{{ .RelPermalink }}" target="_blank">Download Resume</a>
+  {{ end }}
+</body>
+</html>
